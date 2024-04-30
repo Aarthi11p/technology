@@ -1,0 +1,28 @@
+p{
+    width: 200px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+h1{
+    text-align: center;
+}
+#hh{
+    width: 500px;
+}
+.con{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.con1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
